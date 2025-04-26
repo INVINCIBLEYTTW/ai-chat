@@ -18,6 +18,8 @@
 git clone https://github.com/INVINCIBLEYTTW/ai-chat.git
 pip install -r requirements.txt
 python chat.py --model=gpt2
+```
+
 🛠 Технологии
 Модели: GPT-2, Mistral-7B, LLaMA-3 (через HuggingFace)
 
