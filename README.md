@@ -1,6 +1,3 @@
-Вот лаконичный вариант README.md с акцент на статистику и технические детали:
-
-```markdown
 # 🤖 AI Chat with Pre-trained Model
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
