@@ -28,14 +28,9 @@ python chat.py --model=gpt2
 Интерфейс: Gradio 3.45+
 
 📊 Производительность моделей
-Модель	Размер	Скорость (токенов/сек)	Память
-GPT-2	500MB	45 (CPU)	2GB RAM
-Mistral-7B	14GB	28 (CUDA)	8GB VRAM
-📌 Пример использования
-python
-from transformers import AutoModelForCausalLM
-model = AutoModelForCausalLM.from_pretrained("gpt2")
-<div align="center">
-Пример работы
+| Модель | Размер | Скорость (токенов/сек) | Память |
+|--------|--------|------------------------|--------|
+| GPT-2 | 500MB | 45 (CPU) | 2GB RAM |
+| Mistral-7B | 14GB | 28 (CUDA) | 8GB VRAM |
 
-</div> 
+
