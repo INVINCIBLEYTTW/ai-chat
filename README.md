@@ -29,6 +29,7 @@ python chat.py --model_name="gpt2" --device="cpu"
 Запуск (веб-интерфейс)
 bash
 python web_ui.py --model="mistralai/Mistral-7B-v0.1"
+```
 ✨ Возможности
 Автоматическая загрузка моделей с HuggingFace Hub
 
